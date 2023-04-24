@@ -1,0 +1,24 @@
+.losmalos{
+background-color: red;
+}
+.losbuenos{
+background-color: blue;
+}
+#Elmalomasmalo{
+font-size: 200%; background-color: red;
+}
+#Elbuenobuenoso{
+font-style: italic; background-color: blue;
+}
+.Soldados{
+border-style: double; border-color: aqua; border-width:.3cm;letter-spacing: .5cm;
+}
+.apoyo{
+text-align: center;
+}
+.naves{
+font-weight: b;
+}
+.Droides{
+background-color: blue;text-align: center;
+}
